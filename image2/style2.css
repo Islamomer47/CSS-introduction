@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h3 {
+  margin: 10px 6px 15px;
+}
+.small-Div {
+  width: 20%;
+  float: left;
+  padding: 0px;
+  background-color: rgb(159, 156, 156);
+  margin-left: 2%;
+  width: 30%;
+  height: 102px;
+  white-space: wrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+body {
+  background-color: beige;
+  border-right: 10px solid #000000;
+  height: 100vh;
+}
+
+hr {
+  border-top: 3px solid rgb(17, 14, 14);
+}
+#F {
+  margin-top: 90px;
+}
+#S {
+  margin-bottom: 10px;
+}
+.fo-p {
+  height: 10vh;
+  overflow-y: scroll;
+}

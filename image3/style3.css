@@ -1,0 +1,32 @@
+hr {
+  width: 95%;
+}
+h1 a {
+  color: rgb(15, 13, 14);
+}
+h3 {
+  color: blue;
+}
+h3 a,
+h4 a {
+  color: rgb(244, 179, 58);
+}
+h4 {
+  color: rgb(15, 13, 14);
+}
+mark {
+  text-decoration: underline;
+  color: brown;
+}
+
+a {
+  color: rgb(245, 0, 0);
+}
+
+ul:first-child li {
+  color: blue;
+  list-style-type: none;
+}
+ul ul:nth-child(2) li {
+  color: blue;
+}
