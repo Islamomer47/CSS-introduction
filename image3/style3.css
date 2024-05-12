@@ -23,10 +23,10 @@ a {
   color: rgb(245, 0, 0);
 }
 
-ul:first-child li {
+span {
+  color: blue;
+}
+span ul li {
   color: blue;
   list-style-type: none;
-}
-ul ul:nth-child(2) li {
-  color: blue;
 }
